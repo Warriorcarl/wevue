@@ -1,6 +1,6 @@
 {
   "name": "ribet-vue",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ribet-vue",
   "scripts": {
     "serve": "vue-cli-service serve",
